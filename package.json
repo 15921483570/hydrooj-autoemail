@@ -1,0 +1,8 @@
+{
+  "name": "hydrooj-automail",
+  "version": "1.0.0",
+  "description": "hydrooj auto fill random email for register new user",
+  "main": "index.js",
+  "author": "bowen404",
+  "license": "AGPL"
+}
